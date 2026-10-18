@@ -1,0 +1,29 @@
+{
+  "zrodla": [
+    {"nazwa": "Freelancer WordPress", "url": "https://www.freelancer.com/rss/job_WordPress.xml"},
+    {"nazwa": "Freelancer Website Design", "url": "https://www.freelancer.com/rss/job_Website-Design.xml"},
+    {"nazwa": "Freelancer Landing Pages", "url": "https://www.freelancer.com/rss/job_Landing-Pages.xml"},
+    {"nazwa": "Freelancer Shopify", "url": "https://www.freelancer.com/rss/job_Shopify.xml"},
+    {"nazwa": "Freelancer eCommerce", "url": "https://www.freelancer.com/rss/job_eCommerce.xml"},
+    {"nazwa": "Freelancer HTML", "url": "https://www.freelancer.com/rss/job_HTML.xml"},
+    {"nazwa": "Freelancer SEO", "url": "https://www.freelancer.com/rss/job_SEO.xml"},
+    {"nazwa": "Freelancer Google Ads", "url": "https://www.freelancer.com/rss/job_Google-Adwords.xml"},
+    {"nazwa": "Freelancer Facebook Ads", "url": "https://www.freelancer.com/rss/job_Facebook-Marketing.xml"},
+    {"nazwa": "WWR Design", "url": "https://weworkremotely.com/categories/remote-design-jobs.rss"},
+    {"nazwa": "WWR Full-Stack", "url": "https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss"},
+    {"nazwa": "WWR Marketing", "url": "https://weworkremotely.com/categories/remote-sales-and-marketing-jobs.rss"}
+  ],
+  "slowa_kluczowe": {
+    "landing page": 3, "landing": 2, "website": 2, "web site": 2, "web design": 3, "webdesign": 3,
+    "wordpress": 3, "elementor": 3, "woocommerce": 3, "shopify": 3, "online shop": 3, "online store": 3,
+    "e-commerce": 2, "ecommerce": 2, "redesign": 2, "responsive": 1, "html": 1, "css": 1,
+    "seo": 2, "google ads": 3, "adwords": 3, "meta ads": 3, "facebook ads": 3, "instagram ads": 2,
+    "ppc": 2, "react": 1, "next.js": 1, "vite": 1, "tailwind": 2, "strona": 3, "sklep": 3, "polska": 2, "polish": 2
+  },
+  "wykluczenia": [
+    "link building", "backlink", "casino", "gambling", "betting", "adult", "crypto", "nft",
+    "write articles", "content writing only", "data entry", "for free", "unpaid", "senior staff", "full-time employee"
+  ],
+  "min_wynik": 5,
+  "min_budzet_usd": 200
+}
